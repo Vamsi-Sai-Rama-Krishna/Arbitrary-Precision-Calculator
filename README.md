@@ -1,17 +1,23 @@
 # Arbitrary-Precision-Calculator
 
-Overview
+**Overview**\
+
 The Arbitrary Precision Calculator is a command-line-based calculator that supports large integer arithmetic beyond standard data type limits. It is implemented using Doubly Linked List data structures to efficiently handle operations on numbers of arbitrary size.
+
 This project resembles the bc command, a terminal-based calculator that provides precise results for even larger operand values
 
-Operations.
+**Operations**\
+
 Arthemetic  operations for large numbers(positive numbers)..
 Addition
 Subtraction
 Multiplication
 Division
 
-Implementation Details
+---
+
+**Implementation Details**\
+
 Data Structure: Doubly Linked List
 Language: C
 Operations: Addition, Subtraction, Multiplication, Division.
